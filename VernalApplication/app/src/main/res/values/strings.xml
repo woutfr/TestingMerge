@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VernalJobs</string>
+    <string name="Intro">Welcome to Vernal</string>
+    <string name="workers">Work</string>
+    <string name="company">Employees</string>
+    <string name="register_text">I am here for:</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="faq">FAQ</string>
+</resources>

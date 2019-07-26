@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">VernalJobs</string>
+    <string name="Intro">Welcome to Vernal</string>
+    <string name="workers">Work</string>
+    <string name="company">Employees</string>
+    <string name="register_text">I am here for:</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="faq">FAQ</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="terms_u0026_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="fill_in">Fill in:</string>
+    <string name="phone_number">Phone number</string>
+    <string name="e_mail_address">E-mail address</string>
+    <string name="btw_number">BTW-Number</string>
+    <string name="company_name">Company name</string>
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+    </string-array>
+    <string name="title_activity_navview">Navview</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="put_vacancies_online">Put Vacancies online</string>
+    <string name="vacancies">Vacancies</string>
+    <string name="username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome_to_faq">
+        Welcome to the Frequently Asked Question page. Here you can find the more information about what Vernal stands
+        for and find solutions to issues or questions you may have.
+    </string>
+    <string name="please_contact_vernaljobs_outlook_be">Please contact VernalJobs@outlook.be</string>
+    <string name="go_back_faq">Go Back</string>
+    <string name="intro_faq">Welcome to the FAQ</string>
+    <string name="Question_intro_faq">I have a question wherefor I did not find the solution</string>
+    <string name="registercompany_introtext">Complete your details</string>
+    <string name="register_company_TC_text">
+        <![CDATA[Check the box if you agree with the Terms & Conditions and the Privacy Policy]]></string>
+    <string name="logo_with_text_company">Logo with text</string>
+    <string name="login_button">Log In</string>
+    <string name="Sign_up_button">Sign Up</string>
+</resources>

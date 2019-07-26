@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "138155705512",
+    "firebase_url": "https://vernalapplication-master.firebaseio.com",
+    "project_id": "vernalapplication-master",
+    "storage_bucket": "vernalapplication-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138155705512:android:bb45c6d86f6a5a4c",
+        "android_client_info": {
+          "package_name": "com.example.vernaljobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138155705512-5ekef9b9td7acvpljopu2g1eu476ads2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDon8RlJOrd3wotPsXKCl7gTXXQtYxg-lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138155705512-5ekef9b9td7acvpljopu2g1eu476ads2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

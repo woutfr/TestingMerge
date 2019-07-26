@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.example.vernaljobs">
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="Vernal"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme">
+        <!-- android:fullBackupContent="@xml/my_backup_rules" -->
+        <activity android:name=".forgotpassword">
+        </activity>
+        <activity
+                android:name=".Navview"
+                android:label="@string/title_activity_navview"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name=".WorkersVacancies">
+        </activity>
+        <activity
+                android:name=".FAQ"
+                android:windowSoftInputMode="adjustResize">
+        </activity>
+        <activity
+                android:name=".Registercompany"
+                android:windowSoftInputMode="adjustResize">
+        </activity>
+        <activity android:name=".Register">
+        </activity>
+        <activity
+                android:name=".MainActivity"
+                android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
